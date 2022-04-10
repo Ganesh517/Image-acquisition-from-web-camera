@@ -134,7 +134,7 @@ cv2.destroyAllWindows()
 
 ### i) Write the frame as JPG image
 
-![Image](https://github.com/Ganesh517/Image-acquisition-from-web-camera/blob/main/1.jpg.jfif)
+![Image](https://github.com/Ganesh517/Image-acquisition-from-web-camera/blob/main/exp2.png)
 
 
 
